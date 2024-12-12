@@ -1,0 +1,29 @@
+body{
+    background: url(phone.jpg) no-repeat;
+    background-size: 100%;
+    
+    }
+    .ul li {
+        max-width: 800px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .a {color: blueviolet;
+       
+        margin-bottom: 20px;
+    }
+    .b {
+        text-align: justify;
+        color: blueviolet;
+    }
+    .c {color: blueviolet;
+        margin-top: 20px;
+    }
+    .contact-info ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    .contact-info ul li {
+        margin-bottom: 10px;
+    }
+

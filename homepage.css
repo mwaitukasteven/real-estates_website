@@ -1,0 +1,45 @@
+body{
+    background: url(image.png) no-repeat;
+    background-size: cover;
+    
+}
+
+.ul li{
+    display: inline;
+    padding-left: 10%;
+    padding: 100px;
+    color: lightblue;
+}
+.ul{
+    display: inline;
+    color: lightblue;
+}
+.g{
+    background-color:aliceblue;
+    padding: auto;
+}
+.h{
+    max-block-size: 5px;
+    padding-left:0 ;
+    padding:5px;
+    font-size: 30px;
+    color: black;
+    padding-top: 10px;
+    
+}
+.f{
+     color: black;
+     padding-top: 20px;
+}
+.i{
+    max-block-size:5px ;
+    padding-left:0% ;
+    font-size: 30px;
+    color: black;
+}
+.k{
+    background-color:aliceblue;
+
+
+}
+
